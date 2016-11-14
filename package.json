@@ -1,0 +1,26 @@
+{
+  "name": "newchat-chat",
+  "version": "0.0.0",
+  "description": "none",
+  "main": "server.js",
+  "dependencies": {
+    "MD5": "^1.2.1",
+    "socket.io": "^1.0.6",
+    "hapi": "^8.1.0",
+    "colors": "^1.0.3"
+  },
+  "devDependencies": {
+    "gulp": "^3.8.10",
+    "gulp-htmlmin": "^1.1.1",
+    "gulp-if": "^1.2.5",
+    "gulp-minify-css": "^1.1.1",
+    "gulp-uglify": "^1.2.0",
+    "gulp-useref": "^1.1.2",
+    "gulp-util": "^3.0.2",
+    "gulp-autoprefixer": "^2.3.1"
+  },
+  "author": {
+    "name": "ALA"
+  },
+  "license": "MIT"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "newchat-jadestyl",
+  "private": true,
+  "dependencies": {
+    "angular-scroll-glue": "^2.1.0"
+  }
+}
